@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AuditProject</string>
+    <string name="readSmsLabel">Read SMS Label</string>
+</resources>
